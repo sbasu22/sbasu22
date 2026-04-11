@@ -36,7 +36,7 @@ I am a results-driven IT Professional and Data Science researcher with a passion
 
 ### 📫 Connect with Me
 * 💼 [LinkedIn](https://www.linkedin.com/in/shirsendu-basu-5a7a2936/)
-* 📧 [Email](shirsendubasu@gmail.com)
+* 📧 Email(shirsendubasu@gmail.com)
 * 📍 Address: Pennsylvania, USA 
 
 ### All Project Summary
