@@ -24,7 +24,7 @@ I am a results-driven IT Professional and Data Science researcher with a passion
 * 👶 **[Childcare Economic Infrastructure](https://github.com/sbasu22/Affordibility_Analysis_Metrics_And_Policy_Driven_Solutions)** - Multi-medium data storytelling exploring the financial burden of childcare on families.
 * ✈️ **[TSA Service Friction Analysis](https://github.com/sbasu22/Executive_Level_Reporting_and_Strategic_Resource_Allocation)** - Operational strategy and executive reporting to improve passenger experience at high-volume hubs.
 * 🌸 **[Iris Species Analytics](https://github.com/sbasu22/Exploratory_Data_Analysis_and_Statistical_Visualization)** - Comprehensive exploratory data analysis and statistical visualization of biological features.
-* 👶 **[Churn Prediction in Telecom Industry](https://github.com/sbasu22/Churn_Prediction_in_Telecom_Industry)** - Predict the possibility and reasons for churn and then ways to address them and recommened solutions.
+* 👶 **[Churn Prediction in Telecom Industry](https://github.com/sbasu22/Churn_Prediction_Telecom)** - Predict the possibility and reasons for churn and then ways to address them and recommened solutions.
 
 ---
 
