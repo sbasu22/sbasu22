@@ -1,7 +1,23 @@
 # Hi, I'm Shirsendu Basu 👋 
 ### IT Lead | Data Scientist | Graduate Student at A University
 
-I am a results-driven IT Professional and Data Science researcher with a passion for transforming complex datasets into actionable business strategies. With a background in predictive analytics, machine learning, and AI architecture, I bridge the gap between technical execution and executive decision-making.
+_About Me_
+I am a seasoned IT Lead and Data Scientist with a passion for transforming complex raw data into actionable business intelligence. Currently completing my Master of Science in Data Science at Bellevue University, my professional journey has evolved from managing robust cloud infrastructures and AI-driven coding pipelines to mastering the art of Predictive Analytics.
+
+_The Transition to Predictive Analytics_
+With over two decades of experience in software development and technical leadership, I recognized that the true value of modern IT lies in its ability to forecast the future, not just manage the present. This realization sparked my transition into Data Science, where I now specialize in:
+
+_Predictive Modeling & Forecasting_: Utilizing ARIMA, SARIMA, and Holt-Winters to identify trends before they happen.
+
+_Machine Learning_: Developing robust classification and clustering models (XGBoost, Random Forest, K-Means) to solve high-stakes problems like customer churn and resource stratification.
+
+_Generative AI & LLMs_: Fine-tuning large language models (7B+) using QLoRA to build specialized, domain-specific AI applications.
+
+_My Philosophy_: Ethical Data Storytelling
+I believe that data is only as powerful as the story it tells. I am committed to the "Golden Rule" of visualization—starting with the truth and ensuring ethical, clear communication. My goal is to bridge the gap between technical execution and executive strategy, providing stakeholders with the visual evidence they need to move from reactive to proactive management.
+
+_Beyond the Screen_
+When I’m not building predictive pipelines or optimizing infrastructure, I find balance through manual craftsmanship. I am an avid woodworker, gardener, and farmer—hobbies that reinforce my appreciation for patience, precision, and building things that last.
 
 ---
 
