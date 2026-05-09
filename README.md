@@ -41,6 +41,7 @@ When I’m not building predictive pipelines or optimizing infrastructure, I fin
 * ✈️ **[TSA Service Friction Analysis](https://github.com/sbasu22/Executive_Level_Reporting_and_Strategic_Resource_Allocation)** - Operational strategy and executive reporting to improve passenger experience at high-volume hubs.
 * 🌸 **[Iris Species Analytics](https://github.com/sbasu22/Exploratory_Data_Analysis_and_Statistical_Visualization)** - Comprehensive exploratory data analysis and statistical visualization of biological features.
 * 👶 **[Churn Prediction in Telecom Industry](https://github.com/sbasu22/Churn_Prediction_Telecom)** - Predict the possibility and reasons for churn and then ways to address them and recommened solutions.
+* ✈️ **[Titanic Survival Prediction]([https://github.com/sbasu22/TitanicSurvivalPrediction])** Predict the Survival Rate of Titanic disaster using Random Forest model.
 
 ---
 
