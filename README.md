@@ -69,7 +69,7 @@ https://github.com/sbasu22/MNIST_Digit_Classification_Building_a_Convolutional_N
 
 _* MLB Attendance Forecasting & Predictive Analytics_
 This project applies statistical modeling and time-series analysis to predict Major League Baseball (MLB) game attendance. By integrating diverse features such as team performance, promotional events, weather conditions, and historical trends, the model provides actionable insights for sports management and operational planning. The analysis highlights the drivers of fan engagement and offers a data-driven approach to optimizing stadium resources and marketing strategies.
-https://github.com/sbasu22/Time_Series_Modeling
+https://github.com/sbasu22/Predictive_Analytics_For_Business_Decision_Making
 
 _* ALS Patient Stratification & Unsupervised Learning_
 Focused on health informatics, this project applies unsupervised learning techniques to group Amyotrophic Lateral Sclerosis (ALS) patients based on disease progression and clinical biomarkers. By utilizing K-means clustering and principal component analysis, the study identifies distinct patient cohorts, which can help clinicians tailor specialized care plans. This research demonstrates the power of machine learning in identifying latent patterns within complex, high-dimensional medical datasets.
