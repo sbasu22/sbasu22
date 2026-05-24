@@ -73,6 +73,7 @@ https://github.com/sbasu22/Time_Series_Modeling
 
 _* ALS Patient Stratification & Unsupervised Learning_
 Focused on health informatics, this project applies unsupervised learning techniques to group Amyotrophic Lateral Sclerosis (ALS) patients based on disease progression and clinical biomarkers. By utilizing K-means clustering and principal component analysis, the study identifies distinct patient cohorts, which can help clinicians tailor specialized care plans. This research demonstrates the power of machine learning in identifying latent patterns within complex, high-dimensional medical datasets.
+https://github.com/sbasu22/Time_Series_Modeling
 
 _* Sentiment Clustering and Natural Language Processing_
 This analysis explores unsupervised learning in the domain of text analytics to categorize and group public sentiment across various topics. Using advanced NLP preprocessing and clustering algorithms, the project identifies recurring themes and emotional patterns within large volumes of unstructured text data. The results provide a high-level view of consumer or public opinion, enabling organizations to refine their communication strategies based on clustered feedback.
