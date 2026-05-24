@@ -89,6 +89,9 @@ This project involves the creation of a collaborative filtering recommendation s
 _* Statistical Foundations: Iris Species Visualization_
 A foundational exploration of multivariate statistics, this project utilizes the classic Iris dataset to demonstrate the core principles of data exploration and visualization. Through the use of scatter plots, box plots, and pair plots, the study examines the biological differences between flower species. This work serves as a benchmark for demonstrating proficiency in R and Python visualization libraries, ensuring a solid foundation for more complex predictive tasks.
 
+_* Churn Prediction In Telecom Industry_
+This project focuses on identifying and predicting customer churn within the telecommunications sector. Customer retention is a critical business objective, as the cost of acquiring new customers (CAC) can be up to 700% higher than retaining existing ones. By leveraging machine learning, this project identifies high-risk customers, allowing for the development of targeted retention programs to minimize revenue loss and maximize customer lifetime value.
+
 _* Portfolio of Professional Data Science & AI Projects_ 
 Ag-Intel: Precision Agronomy via GenAI [Details will be added later]
 This project focuses on the development of a specialized Generative AI assistant designed to provide narrative-based decision support for precision agriculture. By fine-tuning a foundational Llama-3-8B model using QLoRA (Quantized Low-Rank Adaptation) on the Kisan Vaani dataset, the system moves beyond generic LLM responses to provide expert-level diagnostic reasoning. The solution interprets raw soil sensor data and environmental variables to generate localized, actionable crop management reports, effectively bridging the gap between raw data and professional agronomic expertise.
